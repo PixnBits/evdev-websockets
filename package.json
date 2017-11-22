@@ -1,6 +1,6 @@
 {
   "name": "evdev-websockets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "WebSockets of Event Device data, ex: sending joystick data on one device to a service on another",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "evdev": "^0.2.4",
+    "express": "^4.16.2",
     "shush": "^1.0.0",
     "socket.io": "^2.0.4"
   }

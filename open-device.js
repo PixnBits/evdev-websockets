@@ -1,5 +1,4 @@
 const EvdevReader = require('evdev');
-// const socketio = require('socket.io');
 
 const Device = require('./lib/Device');
 

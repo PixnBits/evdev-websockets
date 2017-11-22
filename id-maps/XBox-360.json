@@ -1,0 +1,46 @@
+{
+  "id":  { "bustype": 3, "vendor": 1118, "product": 673, "version": 276 },
+  "names": {
+    "axis": {
+      "x": "x-left",
+      "y": "y-left",
+      "z": "z-left",
+      "rx": "x-right",
+      "ry": "y-right",
+      "rz": "z-right"
+    },
+    "key": {
+      "select": "back",
+      "tl": "bumper-left",
+      "tr": "bumper-right",
+      "thumbl": "thumb-left",
+      "thumbr": "thumb-right"
+    }
+  },
+  "values": {
+    "z-left": {
+      "0": 0,
+      "255": 1
+    },
+    "z-right": {
+      "0": 0,
+      "255": 1
+    },
+    "x-right": {
+      "-32768": -1,
+      "32767": 1
+    },
+    "y-right": {
+      "-32768": -1,
+      "32767": 1
+    },
+    "x-left": {
+      "-32768": -1,
+      "32767": 1
+    },
+    "y-left": {
+      "-32768": -1,
+      "32767": 1
+    }
+  }
+}
