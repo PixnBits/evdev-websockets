@@ -1,0 +1,35 @@
+{
+  "id": { "bustype": 3, "vendor": 121, "product": 6, "version": 272 },
+  "names": {
+    "pinkie": "a",
+    "top2": "b",
+    "base4": "start",
+    "base3": "z",
+    "base": "bumper-left",
+    "base2": "bumper-right",
+    "hat0x": "d-x",
+    "hat0y": "d-y",
+    "top": "c-left",
+    "trigger": "c-up",
+    "thumb": "c-right",
+    "thumb2": "c-down",
+    "x": "x",
+    "rx": "y",
+    // unconnected/floating?
+    "z": null
+  },
+  "values": {
+    // mimic the values of the Nintendo-USB D-Pad
+    // also use the axis values
+    "d-x": {
+      "-1": 0,
+      "0": 127,
+      "1": 255
+    },
+    "d-y": {
+      "-1": 0,
+      "0": 127,
+      "1": 255
+    }
+  }
+}

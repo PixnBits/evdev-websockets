@@ -1,0 +1,15 @@
+{
+  "id": { "bustype": 3, "vendor": 1411, "product": 8288, "version": 272 },
+  "names": {
+    "trigger": "a",
+    "thumb": "b",
+    "thumb2": "x",
+    "top": "y",
+    "pinkie": "bumper-right",
+    "top2": "bumper-left",
+    "base2": "start",
+    "base": "select",
+    "x": "d-x",
+    "y": "d-y"
+  }
+}

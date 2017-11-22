@@ -1,0 +1,27 @@
+{
+  "name": "evdev-websockets",
+  "version": "0.1.0",
+  "description": "WebSockets of Event Device data, ex: sending joystick data on one device to a service on another",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "evdev",
+    "event",
+    "device",
+    "joystick",
+    "websocket"
+  ],
+  "author": "pixnbits",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "evdev": "^0.2.4",
+    "shush": "^1.0.0",
+    "socket.io": "^2.0.4"
+  }
+}
